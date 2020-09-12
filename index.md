@@ -6,10 +6,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+<form action="" method="post">
+      <label>Customer Name</label>
+      <input type="text" placeholder="Customer Name" name="" required>
+      <label>Phone Number</label>
+      <input type="email" placeholder="Phone Number" name="" required>
+      <label>Email</label>
+      <input type="text" placeholder="Email" name="">
+      <label>Vehicle</label>
+      <input type="text" placeholder="Vehicle" name="">
+      <label>Work to be done/label>
+      <textarea rows="5" placeholder="Work to be done" name="" required></textarea>   
+      <button type="submit">Send</button>
+</form>
 ```markdown
 Syntax highlighted code block
+
+
 
 # Header 1
 ## Header 2
